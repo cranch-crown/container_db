@@ -2,7 +2,7 @@
 使い捨てのデータベースを`docker-compose`で簡単に使えるようにしました。`ORDER BY カラム IS NULL DESC`ってどういう挙動するの？とか確認したい時にどうぞ。
 
 # 立ち上げ方
-`$ git pull`
+`$ git clone https://github.com/cranch-crown/container_db.git`  
 `$ docker-compose up -d`
 
 # データベース定義
